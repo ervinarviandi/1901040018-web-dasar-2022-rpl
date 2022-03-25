@@ -22,4 +22,16 @@ h2 {
 
 .workingspace h3 span {
   font-weight: 500;
+  color: blueviolet;
+}
+
+.workingspace .tombol {
+  border-radius: 25px 25px;
+  background-color: blueviolet;
+  color: #fff;
+}
+
+.workingspace .tombol:hover {
+  background-color: #ffd639;
+  color: #fff;
 }
